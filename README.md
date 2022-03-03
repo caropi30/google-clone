@@ -1,4 +1,4 @@
-# Frontend Mentor - Todo app
+# Platzi - Google Clone
 
 ## Hola Amig@! 👋
 
